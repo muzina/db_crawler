@@ -3,5 +3,6 @@
 
 * 01_npm_crawler.pl   
 国立故宮博物院の日本語版コレクションデータ( http://www.npm.gov.tw/ja/Article.aspx )をクロールする
-* 02
+* 02_bungei_crawler.pl
+文藝春秋の1990年7月から最新号までの各号のURLを取得する
 * 03
