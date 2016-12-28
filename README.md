@@ -6,5 +6,5 @@
 * 02_bungei_crawler.pl  
 文藝春秋の1990年7月から最新号までの各号の記事情報を取得する
 * 03_sti_crawler.pl
-STIニュース（http://jipsti.jst.go.jp/johokanri/list/?mode=1）の投稿日付とタイトル、URLをクロールする
+STIニュース（ http://jipsti.jst.go.jp/johokanri/list/?mode=1 ）の投稿日付とタイトル、URLをクロールする
 * 
